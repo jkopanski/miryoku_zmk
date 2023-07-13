@@ -5,4 +5,5 @@ outboard_repository=victorlucachi/zmk-config-charybdis
 outboard_ref=main
 outboard_from=config
 outboard_to=boards/shields/charybdis
-zmk=victorlucachi/zmk/pmw3610-aml
+# no auto mouse layer
+zmk=victorlucachi/zmk/pmw3610
