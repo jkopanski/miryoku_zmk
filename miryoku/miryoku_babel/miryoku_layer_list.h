@@ -10,7 +10,7 @@
 MIRYOKU_X(BASE,   "Base",   trackball-bindings = <&tmv_coarse>; ) \
 MIRYOKU_X(EXTRA,  "Extra",  trackball-bindings = <&tmv_coarse>; ) \
 MIRYOKU_X(TAP,    "Tap",                                        ) \
-MIRYOKU_X(BUTTON, "Button", trackball-bindings = <&tsl_fine>; ) \
+MIRYOKU_X(BUTTON, "Button", trackball-bindings = <&tsl_coarse>; ) \
 MIRYOKU_X(NAV,    "Nav",    trackball-bindings = <&tsl_fine>;   ) \
 MIRYOKU_X(MOUSE,  "Mouse",  trackball-bindings = <&tmv_fine>;   ) \
 MIRYOKU_X(MEDIA,  "Media",                                      ) \
