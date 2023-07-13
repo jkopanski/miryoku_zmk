@@ -11,5 +11,5 @@ jobs:
       board: '["nice_nano_v2"]'
       shield: '["charybdis_left","charybdis_right"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
-      kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_MOUSE_LAYER_INDEX=3\nCONFIG_MOUSE_LAYER_ACTIVE_MS=750"]'
+      kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_MOUSE_LAYER_INDEX=3\nCONFIG_BT_CTLR_TX_PWR_PLUS_8"]'
 
