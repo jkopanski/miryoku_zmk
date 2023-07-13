@@ -4,7 +4,7 @@
 #define MIRYOKU_LAYER_BASE \
 &kp B,             &kp W,             &kp P,             &kp O,             &kp SQT,             &kp DOT,             &kp V,             &kp D,             &kp L,             &kp J,             \
 U_MT(LGUI, A),     U_MT(LALT, U),     U_MT(LSHFT, I),    U_MT(LCTRL, E),    &kp COMMA,             &kp C,             U_MT(LCTRL, T),    U_MT(LSHFT, S),    U_MT(LALT, R),     U_MT(LGUI, N),     \
-U_LT(U_BUTTON, Z), Y,     &kp X,             &kp SLASH,             &kp K,             &kp M,             &kp Q,         &kp G,           H, F,\
+U_LT(U_BUTTON, Z), &kp Y,     &kp X,             &kp SLASH,             &kp K,             &kp M,             &kp Q,         &kp G,           H, F,\
 U_NP,              U_NP,              U_LT(U_FUN, BSPC),  U_LT(U_NAV, SPACE), U_LT(U_SYM, TAB),  U_LT(U_SYM, ESC),U_LT(U_NUM, SPACE),U_LT(U_MEDIA, DEL),U_NP,              U_NP
 
 
