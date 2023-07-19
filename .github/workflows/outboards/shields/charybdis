@@ -7,7 +7,7 @@ outboard_from=config
 outboard_to=boards/shields/charybdis
 
 # no auto mouse layer
-zmk=victorlucachi/zmk/pmw3610
+zmk=bstiq/zmk/pmw3610
 
 # black magic for smooth trackball
 CONFIG_BT_PERIPHERAL_PREF_MAX_INT=9
