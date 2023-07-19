@@ -10,6 +10,7 @@ jobs:
     with:
       board: '["nice_nano_v2"]'
       shield: '["charybdis_left","charybdis_right"]'
+      branches: '["bstiq/zmk/pmw3610"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y\nCONFIG_BT_CTLR_TX_PWR_PLUS_8=y"]'
 
